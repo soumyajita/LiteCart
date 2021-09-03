@@ -2,7 +2,6 @@ package com.litecart.pages;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
-
 import com.litecart.objectRepo.LoginObjectRepo;
 import com.litecart.utility.ActionUtility;
 
