@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4081" started-at="2021-09-02T17:36:57Z" finished-at="2021-09-02T17:37:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4081" started-at="2021-09-02T17:36:57Z" finished-at="2021-09-02T17:37:01Z">
+      <class name="com.litecart.test.LoginTest">
+        <test-method status="PASS" signature="extentReportSetup()[pri:0, instance:com.litecart.test.LoginTest@1a04f701]" name="extentReportSetup" is-config="true" duration-ms="94" started-at="2021-09-02T17:36:57Z" finished-at="2021-09-02T17:36:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentReportSetup -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.litecart.test.LoginTest@1a04f701]" name="setUp" is-config="true" duration-ms="3066" started-at="2021-09-02T17:36:57Z" finished-at="2021-09-02T17:37:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateSignIn()[pri:0, instance:com.litecart.test.LoginTest@1a04f701]" name="validateSignIn" duration-ms="905" started-at="2021-09-02T17:37:00Z" finished-at="2021-09-02T17:37:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSignIn -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.litecart.test.LoginTest@1a04f701]" name="endReport" is-config="true" duration-ms="0" started-at="2021-09-02T17:37:01Z" finished-at="2021-09-02T17:37:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.litecart.test.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

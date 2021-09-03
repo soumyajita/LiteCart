@@ -1,0 +1,6 @@
+2021-09-02 23:06:57,678  INFO [main] TestBase:43 - chrome
+2021-09-02 23:06:57,678  INFO [main] TestBase:46 - initializing browser
+2021-09-02 23:06:57,678  WARN [main] TestBase:47 - chromedriver file should be at specific location
+2021-09-02 23:06:57,678  INFO [main] TestBase:50 - chrome browser opened
+2021-09-02 23:06:59,313  INFO [main] TestBase:66 - LiteCart Ecommerce application is launched
+2021-09-02 23:07:00,542  INFO [main] TestBase:69 - maximizing browser window
